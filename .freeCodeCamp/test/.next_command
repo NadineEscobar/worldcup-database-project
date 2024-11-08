@@ -419,3 +419,5 @@ git push --set-upstream origin main
 git push origin main
 git status
 git add .
+git status
+git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
