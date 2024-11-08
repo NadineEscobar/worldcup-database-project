@@ -1,2 +1,4 @@
 node_modules
 .DS_Store
+.freeCodeCamp/test/.cwd
+.freeCodeCamp/test/.next_command
